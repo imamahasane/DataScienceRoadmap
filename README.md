@@ -13,6 +13,4 @@
   <li>SQL</li>
   <li>BI Tool (Power BI and Tableau)</li>
   <li>Deep Learning</li>
-  <li></li>
-  <li></li>
 </ol>
