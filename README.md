@@ -11,7 +11,7 @@
   <li>Machine Learning</li>
   <li>Machine Learning Projects with Deployment</li>
   <li>SQL</li>
-  <li>BI Tool (Power BI and Tableau)</li>
+  <li>BI Tools (Power BI and Tableau)</li>
   <li>Deep Learning</li>
 </ol>
 
