@@ -15,4 +15,5 @@
   <li>Deep Learning</li>
 </ol>
 
-<h2><a href="https://www.linkedin.com/in/dhavalsays">Dhaval Patel</a> is one of the most talented Machine Learning and Data Science coach I've ever seen. I like his roadmap and highly recommend <a href="DataScienceRoadmap_2023.pdf">Data Science Roadmap</a>.</h2>
+<h2><a href="https://www.linkedin.com/in/dhavalsays">Dhaval Patel</a> is one of the most talented Machine Learning and Data Science coach I've ever seen. 
+  I like his roadmap and highly recommend <a href="DataScienceRoadmap_2023.pdf">Data Science Roadmap</a>.</h2>
